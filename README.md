@@ -1,2 +1,2 @@
 # website-2-portfolio
-my portfolio website for 
+my portfolio website for school
